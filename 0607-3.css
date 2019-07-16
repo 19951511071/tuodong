@@ -1,0 +1,39 @@
+*{margin:0;padding:0;}
+ul,li{list-style:none;}
+img{border:none;}
+a{text-decoration: none;}
+.clear:after{content:"";font-size:0;height:0;display:block;clear:both;}
+.inner{width:1200px;margin:0 auto;}
+.topval{background-color: #dad8d8;height:40px;}
+.topval .left{float:left;}
+.topval .left h6{font:15px/40px Arial;font-weight:bold }
+.topval .left h6:hover{color:red;}
+.topval{background-color: #dad8d8;height:40px;}
+.topval .left{float:left;}
+.topval .left h6{font:15px/40px Arial;font-weight:bold }
+.topval .left h6:hover{color:red;}
+.topval .right{float:right;}
+.topval .right ul li {float:left;text-transform: uppercase;padding-left:15px;}
+.topval .right ul li h5{font:15px/40px Arial;font-weight:bold }
+.topval .right ul li h5:hover{color:red;}
+#page3{background-color:#212122;}
+#page3 .top{padding-top:40px;}
+#page3 .top .fun{float:left;margin-left:2%;}
+#page3 .top .fun .one{font-size:40px;color:#fff;text-transform:capitalize;}
+#page3 .top .fun .two{font-size:15px;color:#fff;}
+#page3 .top .web{float:left;background-color: #ee761b;margin-left:15%;margin-top:15px;}
+#page3 .top .web p{padding:3px 4px 3px 4px}
+#page3 .bottom{background-image: url("image/aixin.jpg");width:1194px;height:768px;margin-top:30px;border:3px solid #ee761b;position: relative;}
+#page3 .bottom .bs{width:15%;text-align: center;margin-top:20px;}
+#page3 .bottom .bs p{font:25px/20px arial;display: block;}
+#page3 .bottom .bs .bsk{background-color: #ee761b;height:90px;margin-top:5px;;border-bottom: 2px  solid #212122;}
+#page3 .bottom .bz{width:100%;height:200px;background-color: #ee761b;opacity:0.38;position: absolute;left:0;top:270px;}
+#page3 .bottom .bx .p1{font-size:15px;font-family:arial;font-weight:bold;}
+#page3 .bottom .bx .p2{font-size:40px;font-family:Arial;font-weight:bold;margin-left:1%}
+#page3 .bottom .bx .p3{font-size:40px;font-weight:bold;margin-left:1%}
+#page3 .bottom .bx .p4{font-size:40px;font-weight:bold;margin-left:1%}
+#page3 .bottom .bx .p5{font-size:40px;font-weight:bold;margin-left:1%}
+#page3 .foot{}
+#page3 .foot .fl{float:left;}
+#page3 .foot .fl p{font:25px/50px arial;color:#fff;}
+#page3 .foot .fr{float:right;margin-top:4px;}
